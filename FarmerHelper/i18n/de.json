@@ -1,0 +1,9 @@
+﻿{
+  "too-late": "[ZU SPÄT] {0}",
+  "too-late-message": "Zu spät um {0} zu pflanzen!",
+  "animals-outside": "{0} Es gibt noch Tiere ausserhalb des Stalls!",
+  "animals-need-petting": "{0} Manche Tiere brauchen noch Liebe!",
+  "animals-need-harvesting": "{0} Du hast Tiere, die noch Ressourcen geben!",
+  "plants-need-watering": "{0} Nicht alle Pflanzen wurden bewässert!",
+  "plants-ready-for-harvest": "{0} Du hast Pflanzen die geerntet werden können!"
+}
